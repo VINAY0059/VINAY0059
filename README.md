@@ -1,6 +1,4 @@
-# Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Vinay</h1>
+<h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
 <h3 align="center">C++ Developer | DSA & Competitive Programming Enthusiast | Aspiring IT Student</h3>
 
 <p align="center">
@@ -13,7 +11,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently sharpening my **Data Structures & Algorithms** skills in **C++**
--💡 Focused on writing clean, minimal, and efficient code
+- 💡 Focused on writing clean, minimal, and efficient code
 - 🧩 Regularly solving problems on LeetCode covering DP, arrays, linked lists, and stacks
 - ⚡ Fun fact: I like keeping my solutions short and my explanations even shorter
 
@@ -54,6 +52,23 @@
 </p>
 
 > 📌 Solving problems on Arrays, Dynamic Programming, Linked Lists, Stacks, Sorting, and Graphs — tracking progress problem by problem.
+
+---
+
+### 📈 My GitHub History
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&rank_icon=github" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" alt="contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" alt="wave footer" />
+</p>
 
 ---
 
