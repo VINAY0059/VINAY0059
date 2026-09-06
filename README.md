@@ -13,8 +13,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently sharpening my **Data Structures & Algorithms** skills in **C++**
-- 🌱 Preparing for **IBPS SO IT Officer / GATE CSE / PSU** IT roles in India
-- 💡 Focused on writing clean, minimal, and efficient code
+-💡 Focused on writing clean, minimal, and efficient code
 - 🧩 Regularly solving problems on LeetCode covering DP, arrays, linked lists, and stacks
 - ⚡ Fun fact: I like keeping my solutions short and my explanations even shorter
 
