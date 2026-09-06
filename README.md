@@ -1,8 +1,7 @@
-## Hi there 👋
 # Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Vinay</h1>
-<h3 align="center">C++ Developer | DSA & Competitive Programming Enthusiast | Aspiring IT Officer</h3>
+<h3 align="center">C++ Developer | DSA & Competitive Programming Enthusiast | Aspiring IT Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
