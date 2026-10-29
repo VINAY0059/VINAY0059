@@ -1,4 +1,4 @@
-![My card](./dark-card.svg)
+![My card](./dark-card.png)
 
 
 
