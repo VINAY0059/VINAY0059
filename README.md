@@ -1,3 +1,42 @@
+```text
+vinay@github ------------------------------------------------
+ OS: ......................... Windows 10 / Linux
+ Host: ........................ India
+ IDE: ......................... VS Code, CLion
+ Languages.Programming: ....... C++, Python, Java
+ Languages.Computer: .......... HTML, CSS, JSON
+ Languages.Real: .............. English, <your other language>
+ Interests.Algorithms: ........ DSA, competitive programming
+ Interests.Tech: .............. <your hobbies, e.g. OS tinkering>
+
+ Contact -----------------------------------------------------
+ Email: ....................... <your email>
+ LinkedIn: .................... <your handle>
+
+ GitHub Stats ------------------------------------------------
+```
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
 <h3 align="center">C++ Developer | DSA & Competitive Programming Enthusiast | Aspiring IT Student</h3>
 
