@@ -1,46 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="985" height="530" viewBox="0 0 985 530">
-  <rect width="985" height="530" rx="10" fill="#0d1117"/>
-  <g font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#c9d1d9">
-    <text x="20" y="30" fill="#79c0ff" font-weight="bold">YOUR_NAME@github</text>
-    <text x="20" y="30" dx="170" fill="#8b949e"> ───────────────────────────────────</text>
-
-    <text x="20" y="60"><tspan fill="#ffa657">OS:</tspan> ........................ Windows 11 / Linux</text>
-    <text x="20" y="82"><tspan fill="#ffa657">Host:</tspan> ...................... Your City, Country</text>
-    <text x="20" y="104"><tspan fill="#ffa657">IDE:</tspan> ...................... VS Code, CLion</text>
-
-    <text x="20" y="136"><tspan fill="#ffa657">Languages.Programming:</tspan> ..... C++, Python, Java</text>
-    <text x="20" y="158"><tspan fill="#ffa657">Languages.Computer:</tspan> ........ HTML, CSS, JSON</text>
-    <text x="20" y="180"><tspan fill="#ffa657">Languages.Real:</tspan> ........... English, Hindi</text>
-
-    <text x="20" y="212"><tspan fill="#ffa657">Interests.Algorithms:</tspan> .... DSA, competitive programming</text>
-    <text x="20" y="234"><tspan fill="#ffa657">Interests.Tech:</tspan> ........... OS tinkering, Linux</text>
-
-    <text x="20" y="266" fill="#79c0ff" font-weight="bold">Contact</text>
-    <text x="20" y="288"><tspan fill="#ffa657">Email:</tspan> ..................... your@email.com</text>
-    <text x="20" y="310"><tspan fill="#ffa657">LinkedIn:</tspan> ................... your-handle</text>
-
-    <text x="20" y="342" fill="#79c0ff" font-weight="bold">GitHub Stats</text>
-    <text x="20" y="364"><tspan fill="#ffa657">Repos:</tspan> ..................... 12</text>
-    <text x="20" y="386"><tspan fill="#ffa657">Commits:</tspan> ................... 450</text>
-    <text x="20" y="408"><tspan fill="#ffa657">Stars:</tspan> ...................... 8</text>
-  </g>
-</svg>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![My card](./dark-card.svg)
 
 
 
